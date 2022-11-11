@@ -1,0 +1,4 @@
+text_added_after git reset
+sometext
+and some more
+
